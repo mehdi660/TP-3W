@@ -1,6 +1,5 @@
 let sumChar = {
-  message: "testlololo!lolol",
-  message2: "ooooooo",
+
   
   charCount: function(str) {
     let charsMap = {};
